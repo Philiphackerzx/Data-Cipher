@@ -11,10 +11,10 @@ Encrypt data into random sentence
 # Help
 If any doubt feel free to ask me..
 
-#Join our group
+# Join our group
 Whatsapp » https://philiphacker.in/p/whatsapp
 Telegram » https://philiphacker.in/p/telegram
 Signal » https://philiphacker.in/p/signal
 
-#website
+# website
 www.philiphacker.in
